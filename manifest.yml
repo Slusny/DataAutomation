@@ -1,0 +1,5 @@
+applications:
+- name:    Data_Automation
+  memory:  2000M
+  command: node express-app.js
+  buildpack: nodejs_buildpack

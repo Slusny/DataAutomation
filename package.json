@@ -1,0 +1,13 @@
+{
+  "name": "Data_Automation",
+  "main": "./app-express",
+  "description": "Script to automatically Post Data to Tenants",
+  "version": "0.0.1",
+  "author": "Lennart Slusny",
+  "dependencies": {
+    "cfenv": "*",
+    "express": "*",
+    "request": "*",
+    "fs":      "*"
+  }
+}
